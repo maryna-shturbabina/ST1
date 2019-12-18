@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Production environment"
+    name="ST1.Production environment"
     id="d88f4782-0d28-4c2b-8005-1d33c0c5004b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
